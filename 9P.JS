@@ -1,4 +1,4 @@
-// FOR BUCLES
+// COMO ELEGIR DATOS DE UN OBJETOI
 
 // variable con objetos 
 let Aprendizes = ["Luis","Tati","Santiago", "Paula"]

@@ -20,7 +20,7 @@ let bucle = 20;
 while(bucle > 10 ){
     console.log(bucle)
 
-    bucle = bucle -1
+    bucle = bucle - 1
 } 
 
 
